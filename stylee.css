@@ -1,0 +1,199 @@
+*{
+    margin:0;
+    padding: 0;
+    /* background-color: #ffffff; */
+}
+html {
+    scroll-behavior: smooth;
+  }
+  
+.main_heading{
+    text-align: center;
+}
+.main_heading h2,h3 {
+    font-size: 80px;
+    text-align: center;
+    font-family: Satisfy;
+    color: rgba(21, 255, 0, 0.74);
+    background-color: hsl(162, 86%, 29%);
+    box-shadow: 1px 3px 1px hsl(238, 91%, 17%);
+    border-radius: 20% 20px;
+}
+/* .main_heading h3{
+    font-family: cursives;
+    color: #1dee4a;
+} */
+.center_img{
+    text-align: center;
+}
+.center_img img {
+    width: 80%;
+}
+.buttons {
+    text-align: center;
+}
+
+
+/* 
+    Main ABC */
+.wrapper {
+    padding: 30px 10px;
+}
+.wrapper h3 {
+    font-family:url(./font/Bebas_Neue.zip);
+    color: hsl(350, 96%, 43%);
+    margin-bottom: 20px;
+}
+.wrapper {
+    width: 80%;
+    /* border: 1px solid; */
+    margin: 20px auto;
+}
+.alphabates {
+    width: 100%;
+    margin-bottom: 20px;
+    margin: 0 auto;
+    text-align: center;
+}
+.alphabates a {
+    
+    padding: 10px;
+    text-decoration: none;
+    box-shadow: rgba(223, 5, 88, 0.24) 0px 3px 8px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.body{
+    background-color: hsl(71, 100%, 87%);
+}
+.detail h2{
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;  
+}
+.alph {
+    font-size: 145px;
+    margin-right: 20px;
+    font-family: PoppinsBold;
+}
+.alph2 {
+    font-size: 80px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-left: 18px;
+}
+.detail{
+    margin-bottom: 60px;
+}
+.dtable {
+    border-collapse: separate;
+    border-spacing: 0 2em;
+    
+}
+.dtable {
+    margin: 0 auto;
+}
+.dtable td{
+    padding: 15px;
+}
+.dtable tr{
+    box-shadow: rgba(0, 255, 85, 0.397) 0px 3px 8px;
+    background-color: #fff;
+}
+.icon img {
+    width: 150px;
+}
+
+.A{
+    color: rgb(226, 3, 3);
+}
+.B{
+    color: #a4c639;
+}
+.C {
+    color: #0064d3;
+}
+.D{
+    color: #f4ae01;
+}
+.E{
+    color: #88b719;
+   
+   
+}
+.F{
+    color:#3b5998;
+}
+.G{
+    color: #f4b400;
+}
+.H{
+    color: #d34836;
+}
+.I{
+    color: #B01455;
+}
+.J{
+    color: #0077B5;
+}
+.K{
+    color: #f25022;
+}
+.L{
+    color: #ffb900;
+}
+.M{
+    color: #b92b27;
+}
+.N{
+    color: #1db954;
+}
+.O{
+    color: #330000;
+}
+.P{
+    color: #6bde56;
+}
+.Q{
+    
+    color: #1da1f2;
+}
+.R{
+    color: #ff0000;
+}
+.S{
+    color: #F48024;
+}
+.T{
+    color: hsl(356, 100%, 67%);
+}
+.U{
+    color: hsl(186, 21%, 26%);
+}
+.V{
+    color: hsl(0, 0%, 0%);
+}
+.W{
+    color: hsl(31, 90%, 69%);
+}
+.X{
+    color: hsl(190, 95%, 45%);
+}
+.Y{
+    color: hsl(28, 26%, 59%);
+}
+.Z{
+    color: hsl(3, 86%, 64%);
+}
+
+.toptobtm{
+    text-align: right;
+}
+
+.toptobtm img {
+    width: 50px;
+    height: 50px;
+    background-color: hsl(71, 100%, 87%);
+    position: fixed;
+    bottom: 40px;
+    right: 40px;
+}
+
